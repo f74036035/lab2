@@ -1,1 +1,1 @@
-g++ -o main main.cpp BMI.cpp
+program can be compiled with makefile
